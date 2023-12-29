@@ -1,7 +1,7 @@
 ![image](https://github.com/qnhat2004/qnhat2004/assets/126136518/0621b914-96cf-4013-98de-8b2a546047a0)
 
 <p align="center">
-  <b style="font-size:100px">🌞Hi, I'm Quang Nhat!</b>
+  <h1 align="center">🌞Hi, I'm Quang Nhat!</h1>
 </p>
                                                                      
 
@@ -15,7 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=qnhat2004&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=qnhat2004&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qnhat2004&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 ---
