@@ -1,11 +1,12 @@
-<p align="center">
-  <h1 align="center">Hi, I'm Sunshine🌞! A competitive programmer</h1>
-</p>
-                                                                     
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Sunshine🌞!;A+competitive+programmer" alt="Typing SVG" /></a>
+</h1>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Quang.Nhat.1708/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20892798) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qnhat_18)
+## This is my Github profile   
 
-
+### Contact:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Quang.Nhat.1708/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20892798) 
 
 ---
 
