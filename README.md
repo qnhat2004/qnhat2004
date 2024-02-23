@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Sunshine🌞!;A+cp-er!" alt="Typing SVG" /></a>
 </h1>
 
-## This is my Github profile!   
+# This is my Github profile!   
 
 ---
 
