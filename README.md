@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&size=35&color=36BCF7FF&width=435&lines=Hi+There!+👋;I'm+Sunshine🌞!;A+cp-er!" alt="Typing SVG" /></a>
 </h1>
 
-Personal Portfolio: [qnhat2004.github.io](https://qnhat2004.github.io)
+Personal Portfolio: [qnhat2004.github.io/Personal-Portfolio](https://qnhat2004.github.io/Personal-Portfolio)
 
 I'm Quang Nhat. I really love programming, sometimes doesn't    
 
