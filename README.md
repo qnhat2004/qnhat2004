@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&size=35&color=36BCF7FF&width=435&lines=Hi+There!+👋;I'm+Sunshine🌞!;Software+Engineer" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&size=35&color=36BCF7FF&width=435&lines=Hi+There!+👋;I'm+Sunshine🌞!;AI+Engineer" alt="Typing SVG" /></a>
 </h1>
 
 Personal Portfolio: [qnhat2004.github.io/Personal-Portfolio](https://qnhat2004.github.io/Personal-Portfolio)
